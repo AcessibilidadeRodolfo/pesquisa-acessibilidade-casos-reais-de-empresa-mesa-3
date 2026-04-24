@@ -1,13 +1,14 @@
 # pesquisa-acessibilidade-casos-reais-de-empresa-mesa-3
 ## Sobre esta pesquisa 
-   Uma frase descrevendo a dimensão e a pergunta central investigada.
 
-   
+
    A Dimensão B — Casos Reais de Empresas analisa exemplos concretos do mercado para compreender de que forma empresas incorporam ou negligenciam a acessibilidade digital em seus produtos, serviços e processos, investigando como organizações reais implementam (ou ignoram) essa prática.
  
 ## O que descobrimos (Principais Achados) 
-   3 a 5 bullet points com as descobertas mais relevantes. 
-   Cada bullet deve ter uma fonte citada. 
+   - Comparação entre Empresas: O estudo identifica três níveis de maturidade. Empresas que não priorizam acessibilidade, empresas em evolução e aquelas que já integram a inclusão como estratégia. Essa diferença mostra que acessibilidade está diretamente ligada ao nível de inovação e responsabilidade digital. FONTE: World Wide Web Consortium (W3C). Web Content Accessibility Guidelines (WCAG 2.1).
+   - Impacto Legal e Social: A acessibilidade digital deixou de ser opcional e passou a ser uma exigência legal. Empresas que ignoram esse aspecto podem enfrentar processos e prejuízos à imagem, além de excluir uma parcela significativa da população do acesso aos seus serviços. FONTE: Brasil. Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015).
+   - Impacto no Desenvolvimento: A adoção de políticas de acessibilidade transforma o trabalho do desenvolvedor, exigindo maior cuidado com estrutura, usabilidade e testes. O foco deixa de ser apenas funcional e passa a garantir que o sistema seja utilizável por todos. FONTE: World Wide Web Consortium (W3C). Introduction to Web Accessibility.
+   - Maturidade Digital: Empresas com maior maturidade digital tratam acessibilidade como parte do produto desde o início, enquanto outras ainda veem como um ajuste final. Esse fator é decisivo para definir competitividade no mercado atual. FONTE: ISO. ISO 30071-1:2019 – Accessibility for ICT products and services.
  
 ## Ferramentas / Casos / Legislação (depende da sua dimensão) 
    A seção principal com o produto obrigatório da sua dimensão. 
@@ -15,3 +16,4 @@
  
 ## Como isso afeta o nosso trabalho como desenvolvedores 
    O que a turma deveria fazer diferente depois de ler esta pesquisa?
+
