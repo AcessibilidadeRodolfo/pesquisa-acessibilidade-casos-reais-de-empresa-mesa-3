@@ -11,9 +11,11 @@
    - Maturidade Digital: Empresas com maior maturidade digital tratam acessibilidade como parte do produto desde o início, enquanto outras ainda veem como um ajuste final. Esse fator é decisivo para definir competitividade no mercado atual. FONTE: ISO. ISO 30071-1:2019 – Accessibility for ICT products and services.
  
 ## Ferramentas / Casos / Legislação (depende da sua dimensão) 
-   A seção principal com o produto obrigatório da sua dimensão. 
-   (relatório, mapa comparativo ou infográfico — em formato Markdown ou imagem) 
+   Segue mapa comparativo dos achados da Dimensão B, com o tratamento de acessibilidade em grandes empresas:
+   ![alt text](image.png)
  
 ## Como isso afeta o nosso trabalho como desenvolvedores 
-   O que a turma deveria fazer diferente depois de ler esta pesquisa?
+   Após ler esta pesquisa, a turma deveria passar a considerar a acessibilidade como parte essencial do desenvolvimento desde o início dos projetos, adotando boas práticas como uso de HTML semântico, contraste adequado, navegação por teclado, testes com ferramentas de auditoria e foco na experiência de todos os usuários, compreendendo que desenvolver de forma acessível é uma responsabilidade técnica, ética e legal.
 
+## Referências
+   
