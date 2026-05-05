@@ -18,4 +18,36 @@
    Após ler esta pesquisa, a turma deveria passar a considerar a acessibilidade como parte essencial do desenvolvimento desde o início dos projetos, adotando boas práticas como uso de HTML semântico, contraste adequado, navegação por teclado, testes com ferramentas de auditoria e foco na experiência de todos os usuários, compreendendo que desenvolver de forma acessível é uma responsabilidade técnica, ética e legal.
 
 ## Referências
-   
+
+### **1. Microsoft (Blog)**
+   - Autor/Organização: Microsoft
+   - Título: Accessibility (Microsoft Accessibility Blog)
+   - Ano: 2025 (exemplo de publicação recente do blog)
+   - URL: https://blogs.microsoft.com/accessibility/
+### **2. Apple**
+   -  Autor/Organização: Apple
+   - Título: Accessibility
+   - Ano: Não especificado (página institucional, atualizada continuamente)
+   - URL: https://www.apple.com/accessibility/
+### **3. World Wide Web Consortium (WCAG 2.1)**
+   - Autor/Organização: W3C (World Wide Web Consortium)
+   - Título: Web Content Accessibility Guidelines (WCAG) 2.1
+   - Ano: 2018
+   - URL: https://www.w3.org/TR/WCAG21/
+### **4. Microsoft (site principal)**
+   - Autor/Organização: Microsoft
+   - Título: Accessibility at Microsoft
+   - Ano: Não especificado (página institucional)
+   - URL: https://www.microsoft.com/en-us/accessibility
+### **5. Apple (link duplicado corrigido)**
+   - Autor/Organização: Apple
+   - Título: Accessibility
+   - Ano: Não especificado
+   - URL: https://www.apple.com/accessibility/
+### **6. Google**
+   - Autor/Organização: Google
+   - Título: Google Accessibility
+   - Ano: Não especificado (página institucional)
+   - URL: https://www.google.com/accessibility/
+
+   [Empresas do J&F tem Página de acessibilidade](docs/Empresas%20do%20J&F%20tem%20página%20de%20acessibilidade_.docx)
