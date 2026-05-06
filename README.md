@@ -12,7 +12,7 @@
  
 ## Ferramentas / Casos / Legislação (depende da sua dimensão) 
    Segue mapa comparativo dos achados da Dimensão B, com o tratamento de acessibilidade em grandes empresas:
-   ![alt text](evidencias/acessibilidade%20no%20grupo%20J&F/mapacomparativo.png)
+   ![alt text](mapa_comparativo\mapacomparativo.png)
  
 ## Como isso afeta o nosso trabalho como desenvolvedores 
    Após ler esta pesquisa, a turma deveria passar a considerar a acessibilidade como parte essencial do desenvolvimento desde o início dos projetos, adotando boas práticas como uso de HTML semântico, contraste adequado, navegação por teclado, testes com ferramentas de auditoria e foco na experiência de todos os usuários, compreendendo que desenvolver de forma acessível é uma responsabilidade técnica, ética e legal.
