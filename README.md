@@ -11,8 +11,13 @@
    - Maturidade Digital: Empresas com maior maturidade digital tratam acessibilidade como parte do produto desde o início, enquanto outras ainda veem como um ajuste final. Esse fator é decisivo para definir competitividade no mercado atual. FONTE: ISO. ISO 30071-1:2019 – Accessibility for ICT products and services.
  
 ## Ferramentas / Casos / Legislação (depende da sua dimensão) 
-   Segue mapa comparativo dos achados da Dimensão B, com o tratamento de acessibilidade em grandes empresas:
-   ![mapa comparativo](mapa_comparativo\mapacomparativo.png)
+| Critério                    | PicPay                          | Banco Original        | Magalu                     | Microsoft                  |
+|-----------------------------|---------------------------------|------------------------|----------------------------|----------------------------|
+| Política de Acessibilidade  | Não estruturada                 | Não divulgada          | Parcialmente estruturada   | Totalmente estruturada     |
+| Recursos de Acessibilidade  | Básicos (leitor de telas parcial) | Limitados              | Intermediários             | Avançados e integrados     |
+| Transparência Pública       | 🔴 Baixa                        | 🔴 Baixa               | 🟡 Médio                   | 🟢 Alta                    |
+| Casos públicos              | Nenhum relevante                | Nenhum relevante       | Críticas + evolução        | Referência Global          |
+| Maturidade                  | 🔴 Baixa                        | 🔴 Baixa               | 🟡 Médio                   | 🟢 Alta                    |
  
 ## Como isso afeta o nosso trabalho como desenvolvedores 
    Após ler esta pesquisa, a turma deveria passar a considerar a acessibilidade como parte essencial do desenvolvimento desde o início dos projetos, adotando boas práticas como uso de HTML semântico, contraste adequado, navegação por teclado, testes com ferramentas de auditoria e foco na experiência de todos os usuários, compreendendo que desenvolver de forma acessível é uma responsabilidade técnica, ética e legal.
