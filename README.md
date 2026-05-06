@@ -11,6 +11,7 @@
    - Maturidade Digital: Empresas com maior maturidade digital tratam acessibilidade como parte do produto desde o início, enquanto outras ainda veem como um ajuste final. Esse fator é decisivo para definir competitividade no mercado atual. FONTE: ISO. ISO 30071-1:2019 – Accessibility for ICT products and services.
  
 ## Ferramentas / Casos / Legislação (depende da sua dimensão) 
+Segue mapa comparativo dos achados da Dimensão B, com o tratamento de acessibilidade em grandes empresas:
 | Critério                    | PicPay                          | Banco Original        | Magalu                     | Microsoft                  |
 |-----------------------------|---------------------------------|------------------------|----------------------------|----------------------------|
 | Política de Acessibilidade  | Não estruturada                 | Não divulgada          | Parcialmente estruturada   | Totalmente estruturada     |
